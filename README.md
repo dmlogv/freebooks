@@ -1,2 +1,42 @@
 # freebooks
-Short list of open source books
+Useful open source books
+
+
+- **Agile**
+    - [Scrum и Kanban: выживаем максимум](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf)
+    - [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
+- **Architecture**
+    - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+    - [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
+- **Bash**
+    - [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
+- **C#**
+    - [The C# Yellow Book](http://www.robmiles.com/s/CSharp-Book-2016-Rob-Miles-82.pdf)
+- **DB**
+    - [Defensive DatabaseProgramming with SQL Server](http://download.red-gate.com/ebooks/SQL/defensive-database-programming.pdf)
+    - [The Best of SQLServerCentral.com Vol 7](https://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7)
+    - [Troubleshooting SQL Server: A Guide for Accidental DBAs](https://www.red-gate.com/library/troubleshooting-sql-server-a-guide-for-accidental-dbas)
+    - [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf)
+    - [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
+    - [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver/)
+    - [Руководство по SQL](http://proselyte.net/tutorials/sql/)
+- **Haskell**
+    - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+- **Java**
+    - [Java Programming for Kids](http://yfain.github.io/Java4Kids/)
+    - [Think Java. How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
+- **Python**
+    - [A Bite of Python](https://python.swaroopch.com/)
+    - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+    - [Dive Into Python 3](http://getpython3.com/diveintopython3/)
+    - [Programming Computer Vision with Python](http://programmingcomputervision.com/)
+    - [Think Python 2e. How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/)
+- **VCS**
+    - [Pro Git 2e (рус)](https://git-scm.com/book/ru/v2)
+    - [Управления версиями в Subversion](http://svnbook.red-bean.com/)
+- **Misc**
+    - [Think Complexity 2e](http://greenteapress.com/wp/think-complexity-2e/)
+    - [Микропроцессоры и вычислительные комплексы семейства «Эльбрус»](http://www.mcst.ru/doc/book_121130.pdf)
+- **Lib's**
+    - [Best Open Source Programming Books](https://www.ossblog.org/opensourcebooks/)
+    - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
